@@ -1,2 +1,2 @@
 # BLOODLINE
-A Website for blood vdonar and patient
+A Website for blood donar and patient
